@@ -1,6 +1,8 @@
-# physc
+# phys
 Examples how to use Python for physics
 
 
 ## examples
-+ [kinematics_xva_graphs](kinematics_xva_graphs.ipynb)
++ [kinematics](kinematics) (2)
++ [energy](energy) (1)
++ [linear-momentum](linear-momentum) (1)

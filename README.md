@@ -5,7 +5,7 @@ Learn Python using Jupyter Notebook examples
 ## examples
 + [anfang](anfang/README.md) (11)
 + [operator](operator/README.md) (11)
-+ [condition](condition/README.md) (4)
++ [condition](condition/README.md) (7)
 + [loop](loop/README.md) (10)
 + [math](math/README.md) (8)
 + [list](list/README.md) (11)
@@ -18,7 +18,7 @@ Learn Python using Jupyter Notebook examples
 + [markdown](markdown/README.md) (3)
 + [js](js/README.md) (1)
 + [comp](comp/README.md) (14)
-+ [phys](phys/README.md) (1)
++ [phys](phys/README.md) (4)
 + [app](app/README.md) (1)
 
 
